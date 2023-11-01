@@ -1,2 +1,2 @@
 # maktubjeri-hostel
-site for and hostel from Ceara
+site for a hostel from Ceara
